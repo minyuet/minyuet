@@ -6,12 +6,12 @@
 <br>
 
 __INTRODUCE__
-<br> 안녕하세요! 
-
+<br> 안녕하세요!
 <br>
 <br>
 <br>
-__LANGUAGES__<br>
+__LANGUAGES__
+<br>
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -28,8 +28,8 @@ baekjoon, programmers
 <br>
 <br>
 __SITE__
-<br>
-
+<br><br>
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](www.naver.com/)
 <hr>
 
 </div>
