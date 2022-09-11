@@ -14,8 +14,10 @@ __LANGUAGE__
 <br> language badge etc.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyuet&layout=compact)](https://github.com/깃minyuet/github-readme-stats)
-__PROBLEM SOLVING__
-
+<br>
+__PROBLEM SOLVING__ 
+<br>
+baekjoon, programmers
 <hr>
 <!--
 **minyuet/minyuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
