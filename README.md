@@ -1,13 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyuet&count_bg=%23C695FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-# HI 👋 I'm MINYOUNG! 
 
 <div align=center>
+  <h1> FROM MINYOUNG </h1>
+<br>
 <br>
 
 __INTRODUCE__
-<br> 안녕하세요!
+<br> 안녕하세요! 느리지만 열정 가득한 저를 소개합니다!
 <br>
 <br>
 <br>
@@ -24,22 +23,28 @@ __LANGUAGES__
 <br>
 __PROBLEM SOLVING__ 
 <br>
-baekjoon, programmers
+<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyuet)](https://solved.ac/minyuet)
   
 <br>
 <br>
-<br>
-__SITE__
+  
+__CONTACT__
 <br>
   
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](www.naver.com/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:918liter@gmail.com)](mailto:918liter@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:918gram@naver.com)](mailto:918gram@naver.com)
+<br><br><br>
 <hr>
 
 </div>
 
 
 <!--
+
+노션 : [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/)
+
 **minyuet/minyuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -55,9 +60,10 @@ Here are some ideas to get you started:
 -->
 
 
+<div align=center>
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyuet&count_bg=%23C695FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HI!&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-
+</div>
 
