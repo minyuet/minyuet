@@ -25,7 +25,7 @@ __PROBLEM SOLVING__
 <br>
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyuet)](https://solved.ac/minyuet)
-  
+
 <br>
 <br>
   
