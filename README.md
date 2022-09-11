@@ -1,5 +1,19 @@
-### Hi there 👋
+## Hi there 👋 I'm minyoung! 
+### 1.
+### 2. 
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminyuet&count_bg=%23C695FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+__INTRODUCE__
+<br> here is my introduce
 
+<br><br><br>
+__LANGUAGE__
+<br> language badge etc.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyuet&layout=compact)](https://github.com/깃minyuet/github-readme-stats)
+__PROBLEM SOLVING__
+
+<hr>
 <!--
 **minyuet/minyuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
